@@ -1,0 +1,23 @@
+.todos {
+  padding: 5px;
+  border: 2px solid;
+  float: left;
+}
+.posts {
+  padding: 5px;
+  border: 2px solid;
+  float: right;
+}
+
+.todo {
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid;
+  width: 280px;
+}
+.post {
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid;
+  width: 300px;
+}
